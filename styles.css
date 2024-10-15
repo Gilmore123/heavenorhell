@@ -642,8 +642,7 @@ button .btn {
     width: 100%; /* Make the container responsive */
     /* max-width: 600px; Maximum width on larger screens */
     margin: 0 auto; /* Use smaller margin to reduce vertical scroll */
-    padding: 20px;
-    padding-top: 50px;
+    padding: 5px 20px;
     background-color: rgb(255, 255, 255);
     border-radius: 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
