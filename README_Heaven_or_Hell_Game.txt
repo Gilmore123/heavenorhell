@@ -1,7 +1,17 @@
 
 # Heaven or Hell Game - Instructions
-
 Thank you for purchasing the Heaven or Hell game! This README file will guide you through the process of setting up and playing the game.
+
+Two ways to play, go to this link with any device with a browser to play directly from the link:
+tinyurl.com/DevCurve1
+
+
+
+
+
+Other method is below to play from the file, which will work without internet, but only for cpu, not mobile.:
+
+
 
 ## 1. What You Will Receive
 You have downloaded a .zip file named `Heaven_or_Hell_Game.zip`, which contains the following:
