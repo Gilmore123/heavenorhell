@@ -626,6 +626,7 @@ button .btn {
   font-weight: bolder;
   color: rgb(255, 255, 255);
   border: none;
+  background-color: red;
 }
 /* Mobile Styles */
 @media (max-width: 600px) {
